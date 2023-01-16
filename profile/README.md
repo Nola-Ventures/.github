@@ -2,18 +2,18 @@
 
 Welcome to the Nola Ventures on GitHub. We are a consultancy specializing in
 
-* ☁️ Cloud development
+* ☁️ **Cloud development**
   - [Amazon Web Services](https://aws.amazon.com/de/?nc2=h_lg) (AWS)
   - [Cumulocity IoT](https://www.softwareag.com/en_corporate/platform/iot/iot-analytics-platform.html?utm_source=google&utm_medium=cpc&utm_campaign=iot_smart-products&utm_region=hq&utm_subcampaign=stg-2&utm_content=stg-2_webpage_cumulocity-iot-platform&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT-LQMBKSE51J01TtfuxPXJNVNdLvu0UPh-bx5oK3voYmssw1NsqyzIaAjNAEALw_wcB)
-* 💻 Microservice development 
+* 💻 **Microservice development**
   - Golang & Python
   - Docker containerization
-* 📈 Data analytics
+* 📈 **Data analytics**
   - Spreadsheets
   - PowerBi & Tableau
   - SQL database
   - Python analytics scripts
-* 📡 Internet of Things (IoT)
+* 📡 **Internet of Things (IoT)**
   - Device integration & registration process
   - Frontend development
   - Sensor measurement analysis
