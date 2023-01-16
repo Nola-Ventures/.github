@@ -11,6 +11,7 @@ Welcome to the Nola Ventures OÜ organization on GitHub. We are a consultancy sp
 * 📈 Data analytics
   - Spreadsheets
   - PowerBi & Tableau
+  - SQL database
   - Python analytics scripts
 * 📡 Internet of Things (IoT)
   - Device registration
