@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to the Nola Ventures on GitHub. We are a consultancy specializing in
+Welcome to the Nola Ventures page on GitHub. We are a consultancy specializing in
 
 * ☁️ **Cloud development**
   - [Amazon Web Services](https://aws.amazon.com/de/?nc2=h_lg) (AWS)
