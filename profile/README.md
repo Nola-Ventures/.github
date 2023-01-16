@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to the Nola Ventures OÜ organization on GitHub. We are a consultancy specializing in
+Welcome to the Nola Ventures on GitHub. We are a consultancy specializing in
 
 * ☁️ Cloud development
   - [Amazon Web Services](https://aws.amazon.com/de/?nc2=h_lg) (AWS)
@@ -14,9 +14,9 @@ Welcome to the Nola Ventures OÜ organization on GitHub. We are a consultancy sp
   - SQL database
   - Python analytics scripts
 * 📡 Internet of Things (IoT)
-  - Device registration
-  - Frontend application
-  - Sensor measurements analysis
+  - Device integration & registration process
+  - Frontend development
+  - Sensor measurement analysis
 
 ### Contact
 If you want to get in contact with us, please write us an e-mail at [📧 info@nola-ventures.com](mailto:info@nola-ventures.com).
