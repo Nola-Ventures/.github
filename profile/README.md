@@ -1,12 +1,18 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
+Welcome to the Nola Ventures OÜ organization on GitHub. We are a consulting company specializing in
 
-**Here are some ideas to get you started:**
+* ☁️ Cloud enviornments
+* 💻 Microservice development 
+* 📈 Data analystics
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Contributions 
+For any suggestions, please open a new issue with all the relevant details. Once you have created your issue, we will make sure to assign the correct label to it, which will help us to categorize your issue:
+
+* 🐞 use "bug" for something that is not working
+* 📖 use "documentation" for any feedback about the documentation
+* 💡 use "idea" for every new idea, feature request or suggestion
+* ❓ use "support" for questions or anything that needs further assistance
+
+#### Contact
+If you want to get in contact with us, please write us an e-mail at [📧 info@nola-ventures.com](mailto:info@nola-ventures.com).
