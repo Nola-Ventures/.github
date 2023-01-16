@@ -1,10 +1,11 @@
 ## Hi there! 👋
 
-Welcome to the Nola Ventures OÜ organization on GitHub. We are a consulting company specializing in
+Welcome to the Nola Ventures OÜ organization on GitHub. We are a consultancy specializing in
 
-* ☁️ Cloud enviornments
+* ☁️ Cloud development
 * 💻 Microservice development 
-* 📈 Data analystics
+* 📈 Data analytics
+* ⚙️ IoT
 
 #### Contributions 
 For any suggestions, please open a new issue with all the relevant details. Once you have created your issue, we will make sure to assign the correct label to it, which will help us to categorize your issue:
