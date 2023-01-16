@@ -17,5 +17,5 @@ Welcome to the Nola Ventures OÜ organization on GitHub. We are a consultancy sp
   - Frontend application
   - Sensor measurements analysis
 
-#### Contact
+### Contact
 If you want to get in contact with us, please write us an e-mail at [📧 info@nola-ventures.com](mailto:info@nola-ventures.com).
