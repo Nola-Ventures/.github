@@ -1,12 +1,22 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
+Welcome to the Nola Ventures page on GitHub. We are a consultancy specializing in
 
-**Here are some ideas to get you started:**
+* ☁️ **Cloud development**
+  - [Amazon Web Services](https://aws.amazon.com/de/?nc2=h_lg) (AWS)
+  - [Cumulocity IoT](https://www.softwareag.com/en_corporate/platform/iot/iot-analytics-platform.html?utm_source=google&utm_medium=cpc&utm_campaign=iot_smart-products&utm_region=hq&utm_subcampaign=stg-2&utm_content=stg-2_webpage_cumulocity-iot-platform&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT-LQMBKSE51J01TtfuxPXJNVNdLvu0UPh-bx5oK3voYmssw1NsqyzIaAjNAEALw_wcB)
+* 💻 **Microservice development**
+  - Golang & Python
+  - Docker containerization
+* 📈 **Data analytics**
+  - Spreadsheets
+  - PowerBi & Tableau
+  - SQL database
+  - Python analytics scripts
+* 📡 **Internet of Things (IoT)**
+  - Device integration & registration process
+  - Frontend development
+  - Sensor measurement analysis
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contact
+If you want to get in contact with us, please write us an e-mail at [📧 info@nola-ventures.com](mailto:info@nola-ventures.com).
